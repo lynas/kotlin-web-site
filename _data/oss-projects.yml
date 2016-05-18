@@ -1,3 +1,18 @@
+- name: Spring MVC using Kotlin
+  description: Video tutorial on Spring MVC using Kotlin
+  type: Video tutorial
+  link: https://www.youtube.com/watch?v=PkA9rim62jk
+  
+- name: Android Application using Kotlin
+  description: Android Application using Kotlin
+  type: Video tutorial
+  link: https://www.youtube.com/watch?v=PTZAYsnuX2Q
+  
+- name: Android layout using ANKO
+  description: Android layout using ANKO (say goodbye to xml based layout)
+  type: Video tutorial
+  link: https://www.youtube.com/watch?v=a0lxfdoOhSE
+
 - name: Spek
   description: A Specification Framework
   type: Library
